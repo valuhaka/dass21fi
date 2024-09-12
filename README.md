@@ -40,7 +40,7 @@ Unfortunately the participant data may not be published due to privacy concerns.
 1. AttritionAnalyses.R
 
 2. cfa.R
-	- this script takes in the preprocessed data and provides the main analyses on structural validity
+	- take in the preprocessed data, produce the main analyses on structural validity
 
 3. createDASS21Data.R
 	- takes lightly preprocessed data and extracts the most relevant items, imputing for missing values
