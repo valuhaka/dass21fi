@@ -66,7 +66,7 @@ Unfortunately the participant data may not be published due to privacy concerns.
 	- plot the formation of the final samples in the two cohorts
 
 11. table1.R
-	- generate Table 1 of the participants SES variables
+	- generate Table 1 of the participants' SES variables
 
 ### Subscripts
 
